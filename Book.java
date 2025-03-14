@@ -31,7 +31,7 @@ class Book {
     }
     //the @Override annotation is used to inform the compiler that the element is meant to override an element declared in a superclass
     //this method is used to return the string representation of the object
-    //it is recommended to override the toString() method in the class
+    //it is recommended to override the toString() method in the class to getr the preffered class
 
     @Override
     public String toString() {
